@@ -1,0 +1,42 @@
+body {
+  background: linear-gradient(black 0%, #0e0e2a 50%, #3e328f 100%), url("");
+}
+
+.hero-img {
+  background-image: url("https://i0.wp.com/web3devs.com/wp-content/uploads/2018/03/blockchain_hero.png?resize=1150%2C968&ssl=1");
+  background-repeat: no-repeat;
+  background-size: 35%;
+  background-position: right 50% bottom 0%;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #9effe2 !important;
+}
+
+.brdr-clr {
+  border-right-color: #293347 !important;
+}
+
+.dropdown-menu {
+  background: #172238;
+}
+.dropdown-menu li .dropdown-item {
+  color: white;
+}
+.dropdown-menu li .dropdown-item:hover {
+  background-color: #1b2943;
+  color: #9effe2;
+}
+
+.bg-onscroll .container-fluid .navbar-brand {
+  color: white;
+}
+.bg-onscroll .container-fluid .navbar-collapse .navbar-nav .nav-item .nav-link {
+  color: #ffffff;
+}
+
+.carousel-indicators [data-bs-target] {
+  border-radius: 100%;
+  width: 10px;
+  height: 10px;
+}
