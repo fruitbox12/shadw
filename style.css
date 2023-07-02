@@ -2579,7 +2579,7 @@ blockquote {
 }
 
 .rich-text blockquote {
-  color: #ff51d7;
+  color: #9751ff;
   margin-top: 2em;
   margin-bottom: 2em;
   padding-left: 10px;
@@ -4673,7 +4673,7 @@ blockquote {
 
 .blog-item-category {
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(174deg, #ff51d7, #1e43ff);
+  background-image: linear-gradient(174deg, #bc51ff, #1e43ff);
   -webkit-background-clip: text;
   background-clip: text;
 }
@@ -4692,7 +4692,7 @@ blockquote {
 .blog-item-overlay-bg {
   z-index: -1;
   opacity: .6;
-  background-image: linear-gradient(135deg, #ff51d7, #c300ff 50%, #1e43ff);
+  background-image: linear-gradient(135deg, #8851ff, #c300ff 50%, #1e43ff);
   border-radius: 10px;
   flex-direction: column;
   justify-content: center;
@@ -4804,7 +4804,7 @@ blockquote {
   max-width: none;
   opacity: .5;
   filter: blur(150px);
-  background-image: linear-gradient(83deg, #ff51d7, #c300ff 28%, #c300ff 46%, #30b6ff 62%, #00f0ff 75%, #1e43ff);
+  background-image: linear-gradient(83deg, #1100ff, #6a00ff 28%, #006aff 46%, #30b6ff 62%, #00f0ff 75%, #1e43ff);
   margin-left: auto;
   margin-right: auto;
   position: absolute;
@@ -4870,7 +4870,7 @@ blockquote {
 
 .social-icon-background {
   z-index: 0;
-  background-image: linear-gradient(135deg, #ff51d7, #c300ff 39%, #1e43ff);
+  background-image: linear-gradient(135deg, #51dfff, #00aeff 39%, #1e43ff);
   position: absolute;
   top: 0%;
   bottom: 0%;
@@ -4959,7 +4959,7 @@ blockquote {
   max-width: none;
   opacity: .3;
   filter: blur(150px);
-  background-image: linear-gradient(83deg, #ff51d7, #c300ff 28%, #c300ff 46%, #30b6ff 62%, #00f0ff 75%, #1e43ff);
+  background-image: linear-gradient(83deg, #5188ff, #00ff44 28%, #4effd6 46%, #30d9ff 62%, #9000ff 75%, #1e43ff);
   margin-left: auto;
   margin-right: auto;
   position: absolute;
@@ -5002,7 +5002,7 @@ blockquote {
 
 .new-badge {
   text-transform: uppercase;
-  background-image: linear-gradient(139deg, #ff51d7, #1e43ff);
+  background-image: linear-gradient(139deg, #9f51ff, #1e43ff);
   border-radius: 3px;
   margin-left: 5px;
   padding: 2px 5px;
